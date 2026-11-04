@@ -184,8 +184,8 @@ Platform awalnya dirancang sebagai marketplace-fintech masif, namun setelah rise
 
 Proyek ini dikembangkan sebagai Ujian Akhir Semester (UAS) Mata Kuliah **Interaksi Manusia & Komputer** - TIF18 4PTI1
 
-| NIM | Nama | Role |
-|-----|------|------|
+| NIM | Nama | 
+|-----|------|
 | 32240155 | Febriani Adeline | 
 | 32240119 | **Gwyneth Eunice Widjaja** | 
 | 32240127 | Corinthia Angie | 
