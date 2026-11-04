@@ -174,362 +174,323 @@ Platform awalnya dirancang sebagai marketplace-fintech masif, namun setelah rise
 
 ---
 
-## Screenshot
+## Screenshot Aplikasi
 
-### Login & Register
+### Admin Web Dashboard
+
+#### Login Admin
+<img src="screenshot/img346.jpg" alt="Login Admin" width="60%">
+
+*Halaman login untuk admin mengakses dashboard pengelolaan platform*
+
+---
+
+#### Dashboard Home Admin
+<img src="screenshot/img349.jpg" alt="Home Admin" width="80%">
+
+*Dashboard utama menampilkan ringkasan aktivitas, pending verifikasi, live session, dan komplain*
+
+---
+
+#### Verifikasi Akun Jastip
 <table>
 <tr>
 <td width="50%">
-<b>Login (Before)</b><br>
+<img src="screenshot/img350.jpg" alt="Daftar Verifikasi" width="100%">
+<br><b>Daftar Pengajuan Jastip</b>
+</td>
+<td width="50%">
+<img src="screenshot/img353.jpg" alt="Detail Verifikasi" width="100%">
+<br><b>Detail Verifikasi & Dokumen KTP</b>
+</td>
+</tr>
+</table>
+
+*Admin dapat mereview dan menyetujui/menolak pengajuan jastiper*
+
+---
+
+#### Moderasi Konten
+<img src="screenshot/img356.jpg" alt="Moderasi" width="80%">
+
+*Monitoring live session, deteksi pelanggaran, dan aksi moderasi*
+
+---
+
+#### Keuangan & Escrow
+<table>
+<tr>
+<td width="50%">
+<img src="screenshot/img359.jpg" alt="Dashboard Keuangan" width="100%">
+<br><b>Dashboard Keuangan</b>
+</td>
+<td width="50%">
+<img src="screenshot/img360.jpg" alt="Detail Transaksi" width="100%">
+<br><b>Detail Transaksi Escrow</b>
+</td>
+</tr>
+</table>
+
+*Monitoring dana escrow dan persetujuan penarikan saldo jastiper*
+
+---
+
+#### Komplain & Dispute
+<table>
+<tr>
+<td width="50%">
+<img src="screenshot/img363.jpg" alt="Daftar Komplain" width="100%">
+<br><b>Daftar Komplain Masuk</b>
+</td>
+<td width="50%">
+<img src="screenshot/img366.jpg" alt="Detail Komplain" width="100%">
+<br><b>Detail & Resolusi Komplain</b>
+</td>
+</tr>
+</table>
+
+*Admin mediasi dispute dan proses refund*
+
+---
+
+#### Logistik & Tracking
+<table>
+<tr>
+<td width="50%">
+<img src="screenshot/img369.jpg" alt="Logistik" width="100%">
+<br><b>Manajemen Logistik</b>
+</td>
+<td width="50%">
+<img src="screenshot/img370.jpg" alt="Profile Admin" width="100%">
+<br><b>Profile Admin</b>
+</td>
+</tr>
+</table>
+
+*Tracking pengiriman dan manajemen kurir*
+
+---
+
+### User Mobile App
+
+#### Login & Register User
+<table>
+<tr>
+<td width="33%">
 <img src="screenshot/img244.jpg" alt="Login Before" width="100%">
+<br><b>Login (Before)</b>
 </td>
-<td width="50%">
-<b>Login & Register (After)</b><br>
+<td width="33%">
 <img src="screenshot/img467.jpg" alt="Login After" width="100%">
+<br><b>Login & Register (After)</b>
 </td>
-</tr>
-</table>
-
-*Perbaikan: Penambahan validasi real-time, perbaikan UX form, dan integrasi dengan sistem escrow*
-
----
-
-### User App - Beranda & Jastip
-
-<table>
-<tr>
-<td width="50%">
-<b>Beranda User</b><br>
+<td width="33%">
 <img src="screenshot/img248.jpg" alt="Beranda" width="100%">
+<br><b>Halaman Beranda</b>
 </td>
-<td width="50%">
-<b>Halaman Jastip</b><br>
+</tr>
+</table>
+
+*Perbaikan UX pada login dan tampilan beranda dengan live session aktif*
+
+---
+
+#### Jastip & Live Streaming
+<table>
+<tr>
+<td width="33%">
 <img src="screenshot/img252.jpg" alt="Jastip List" width="100%">
+<br><b>Halaman Jastip</b>
 </td>
-</tr>
-</table>
-
-*Fitur: Live session aktif, katalog jastiper terverifikasi, pencarian & filter*
-
----
-
-### Live Streaming & Katalog
-
-<table>
-<tr>
 <td width="33%">
-<b>Isi Live Before</b><br>
 <img src="screenshot/img256.jpg" alt="Live Before" width="100%">
+<br><b>Isi Live (Before)</b>
 </td>
 <td width="33%">
-<b>Isi Live After</b><br>
 <img src="screenshot/img470.jpg" alt="Live After" width="100%">
+<br><b>Isi Live (After)</b>
 </td>
-<td width="33%">
-<b>Katalog Live</b><br>
+</tr>
+</table>
+
+*Browse jastiper dan menonton live streaming dari pasar*
+
+---
+
+#### Katalog & Chat
+<table>
+<tr>
+<td width="50%">
 <img src="screenshot/img260.jpg" alt="Katalog" width="100%">
+<br><b>Katalog Ikan di Live</b>
+</td>
+<td width="50%">
+<img src="screenshot/img277.jpg" alt="Chat" width="100%">
+<br><b>Chat dengan Jastiper</b>
 </td>
 </tr>
 </table>
 
-*Perbaikan: Data realistis, tampilan produk lebih informatif, integrasi chat real-time*
+*Browse produk dan komunikasi langsung dengan jastiper*
 
 ---
 
-### Checkout & Pembayaran
-
+#### Checkout & Pemesanan
 <table>
 <tr>
 <td width="33%">
-<b>Checkout</b><br>
 <img src="screenshot/img264.jpg" alt="Checkout" width="100%">
+<br><b>Halaman Checkout</b>
 </td>
 <td width="33%">
-<b>Proses Berhasil</b><br>
 <img src="screenshot/img269.jpg" alt="Success" width="100%">
+<br><b>Pemesanan Berhasil</b>
 </td>
 <td width="33%">
-<b>Detail Pesanan</b><br>
-<img src="screenshot/img272.jpg" alt="Order Detail" width="100%">
+<img src="screenshot/img272.jpg" alt="Detail Order" width="100%">
+<br><b>Detail Pemesanan</b>
 </td>
 </tr>
 </table>
 
-*Fitur: Kalkulasi otomatis, escrow payment, konfirmasi order real-time*
+*Proses checkout dengan kalkulasi otomatis dan konfirmasi pesanan*
 
 ---
 
-### Chat & Komunikasi
-
-<table>
-<tr>
-<td width="100%">
-<b>Fitur Chat Jastip</b><br>
-<img src="screenshot/img277.jpg" alt="Chat" width="50%">
-</td>
-</tr>
-</table>
-
-*Fitur: Chat real-time, filter kata kasar otomatis, riwayat percakapan*
-
----
-
-### Profile & Pesanan
-
+#### Profile & Pesanan
 <table>
 <tr>
 <td width="33%">
-<b>Profile User</b><br>
 <img src="screenshot/img284.jpg" alt="Profile" width="100%">
+<br><b>Profile User</b>
 </td>
 <td width="33%">
-<b>Pesanan Saya</b><br>
 <img src="screenshot/img288.jpg" alt="My Orders" width="100%">
+<br><b>Pesanan Saya</b>
 </td>
 <td width="33%">
-<b>Lacak Pesanan</b><br>
-<img src="screenshot/img292.jpg" alt="Track Order" width="100%">
+<img src="screenshot/img292.jpg" alt="Track" width="100%">
+<br><b>Lacak Pesanan</b>
 </td>
 </tr>
 </table>
 
-*Fitur: Edit profile, riwayat pesanan, live tracking dengan map*
+*Manajemen profile dan tracking pesanan real-time*
 
 ---
 
-### WavePay E-Wallet
-
+#### WavePay E-Wallet
 <table>
 <tr>
 <td width="33%">
-<b>WavePay Dashboard</b><br>
 <img src="screenshot/img297.jpg" alt="WavePay" width="100%">
+<br><b>WavePay Dashboard</b>
 </td>
 <td width="33%">
-<b>Isi Saldo</b><br>
 <img src="screenshot/img302.jpg" alt="Top Up" width="100%">
+<br><b>Isi Saldo</b>
 </td>
 <td width="33%">
-<b>Payment Gateway</b><br>
 <img src="screenshot/img307.jpg" alt="Payment" width="100%">
+<br><b>Payment Gateway</b>
 </td>
 </tr>
 </table>
 
-*Fitur: E-wallet internal, top-up, riwayat transaksi, integrasi payment gateway*
+*E-wallet internal untuk transaksi dalam aplikasi*
 
 ---
 
-### Notifikasi
+#### Notifikasi
+<img src="screenshot/img314.jpg" alt="Notifikasi" width="40%">
 
-<table>
-<tr>
-<td width="100%">
-<b>Notifikasi Real-Time</b><br>
-<img src="screenshot/img314.jpg" alt="Notifikasi" width="50%">
-</td>
-</tr>
-</table>
-
-*Fitur: Update status pesanan, promo, informasi penting real-time*
+*Notifikasi real-time untuk update status pesanan*
 
 ---
 
-### Jastiper App
+### Jastiper Mobile App
 
+#### Register & Login Jastiper
 <table>
 <tr>
 <td width="33%">
-<b>Daftar Jadi Jastiper</b><br>
 <img src="screenshot/img319.jpg" alt="Register Jastiper" width="100%">
+<br><b>Daftar Jadi Jastiper</b>
 </td>
 <td width="33%">
-<b>Login Jastiper</b><br>
 <img src="screenshot/img330.jpg" alt="Login Jastiper" width="100%">
+<br><b>Login Jastiper</b>
 </td>
 <td width="33%">
-<b>Beranda Jastiper</b><br>
 <img src="screenshot/img332.jpg" alt="Home Jastiper" width="100%">
+<br><b>Beranda Jastiper</b>
 </td>
 </tr>
 </table>
 
-*Fitur: Pendaftaran terverifikasi, dashboard khusus jastiper*
+*Pendaftaran dengan verifikasi dokumen dan dashboard jastiper*
 
 ---
 
-### Jastiper - Live & Katalog
-
+#### Live Streaming Jastiper
 <table>
 <tr>
 <td width="33%">
-<b>Live Jastiper Before</b><br>
-<img src="screenshot/img335.jpg" alt="Live Jastiper Before" width="100%">
+<img src="screenshot/img335.jpg" alt="Live Before" width="100%">
+<br><b>Live Jastiper (Before)</b>
 </td>
 <td width="33%">
-<b>Live Jastiper After</b><br>
-<img src="screenshot/img475.jpg" alt="Live Jastiper After" width="100%">
+<img src="screenshot/img475.jpg" alt="Live After" width="100%">
+<br><b>Live Jastiper (After)</b>
 </td>
 <td width="33%">
-<b>Katalog Jastiper</b><br>
-<img src="screenshot/img336.jpg" alt="Katalog Jastiper" width="100%">
+<img src="screenshot/img336.jpg" alt="Katalog" width="100%">
+<br><b>Katalog Produk</b>
 </td>
 </tr>
 </table>
 
-*Perbaikan: UI lebih intuitif, data realistis, kontrol streaming lebih baik*
+*Jastiper dapat memulai live dan menampilkan katalog produk*
 
 ---
 
-### Jastiper - Chat & Order
-
+#### Chat & Pesanan Jastiper
 <table>
 <tr>
 <td width="50%">
-<b>Chat dengan Pembeli</b><br>
-<img src="screenshot/img337.jpg" alt="Chat Jastiper" width="100%">
+<img src="screenshot/img337.jpg" alt="Chat" width="100%">
+<br><b>Chat dengan Pembeli</b>
 </td>
 <td width="50%">
-<b>Daftar Pesanan</b><br>
-<img src="screenshot/img340.jpg" alt="Order List" width="100%">
+<img src="screenshot/img340.jpg" alt="Orders" width="100%">
+<br><b>Daftar Pesanan</b>
 </td>
 </tr>
 </table>
 
-*Fitur: Respon order real-time, verifikasi ketersediaan barang*
+*Komunikasi dengan pembeli dan manajemen pesanan masuk*
 
 ---
 
-### Jastiper - Dashboard & Keuangan
-
+#### Dashboard Keuangan Jastiper
 <table>
 <tr>
 <td width="33%">
-<b>Profile Jastiper</b><br>
-<img src="screenshot/img341.jpg" alt="Profile Jastiper" width="100%">
+<img src="screenshot/img341.jpg" alt="Profile" width="100%">
+<br><b>Profile Jastiper</b>
 </td>
 <td width="33%">
-<b>Dashboard Pendapatan</b><br>
-<img src="screenshot/img344.jpg" alt="Dashboard Income" width="100%">
+<img src="screenshot/img344.jpg" alt="Income" width="100%">
+<br><b>Dashboard Pendapatan</b>
 </td>
 <td width="33%">
-<b>Tarik Saldo</b><br>
 <img src="screenshot/img345.jpg" alt="Withdraw" width="100%">
+<br><b>Tarik Saldo</b>
 </td>
 </tr>
 </table>
 
-*Fitur: Laporan keuangan lengkap, unduh PDF, penarikan saldo ke bank*
-
----
-
-### Admin Dashboard
-
-<table>
-<tr>
-<td width="50%">
-<b>Login Admin</b><br>
-<img src="screenshot/img346.jpg" alt="Admin Login" width="100%">
-</td>
-<td width="50%">
-<b>Home Dashboard</b><br>
-<img src="screenshot/img349.jpg" alt="Admin Home" width="100%">
-</td>
-</tr>
-</table>
-
-*Platform: Web-based admin panel dengan statistik lengkap*
-
----
-
-### Verifikasi Jastip
-
-<table>
-<tr>
-<td width="50%">
-<b>Daftar Verifikasi</b><br>
-<img src="screenshot/img350.jpg" alt="Verification List" width="100%">
-</td>
-<td width="50%">
-<b>Detail Verifikasi</b><br>
-<img src="screenshot/img353.jpg" alt="Verification Detail" width="100%">
-</td>
-</tr>
-</table>
-
-*Fitur: Review dokumen, approve/reject dengan alasan, notifikasi otomatis*
-
----
-
-### Moderasi & Banned
-
-<table>
-<tr>
-<td width="100%">
-<b>Moderasi Konten</b><br>
-<img src="screenshot/img356.jpg" alt="Moderation" width="50%">
-</td>
-</tr>
-</table>
-
-*Fitur: Take down live session, banned user, riwayat pelanggaran*
-
----
-
-### Keuangan & Escrow
-
-<table>
-<tr>
-<td width="50%">
-<b>Dashboard Keuangan</b><br>
-<img src="screenshot/img359.jpg" alt="Finance Dashboard" width="100%">
-</td>
-<td width="50%">
-<b>Detail Transaksi</b><br>
-<img src="screenshot/img360.jpg" alt="Transaction Detail" width="100%">
-</td>
-</tr>
-</table>
-
-*Fitur: Monitoring escrow, approve penarikan saldo, laporan keuangan*
-
----
-
-### Komplain & Dispute
-
-<table>
-<tr>
-<td width="50%">
-<b>Daftar Komplain</b><br>
-<img src="screenshot/img363.jpg" alt="Complaint List" width="100%">
-</td>
-<td width="50%">
-<b>Detail & Resolusi</b><br>
-<img src="screenshot/img366.jpg" alt="Complaint Detail" width="100%">
-</td>
-</tr>
-</table>
-
-*Fitur: Handle dispute, mediasi, approve refund, dokumentasi resolusi*
-
----
-
-### Logistik & Tracking
-
-<table>
-<tr>
-<td width="50%">
-<b>Logistik Management</b><br>
-<img src="screenshot/img369.jpg" alt="Logistic" width="100%">
-</td>
-<td width="50%">
-<b>Profile Admin</b><br>
-<img src="screenshot/img370.jpg" alt="Admin Profile" width="100%">
-</td>
-</tr>
-</table>
-
-*Fitur: Alokasi kurir, live tracking, update status pengiriman*
+*Monitoring pendapatan dan penarikan saldo ke rekening bank*
 
 ---
 
