@@ -186,22 +186,13 @@ Proyek ini dikembangkan sebagai Ujian Akhir Semester (UAS) Mata Kuliah **Interak
 
 | NIM | Nama | Role |
 |-----|------|------|
-| 32240155 | Febriani Adeline | UI/UX Designer & Researcher |
-| 32240119 | **Gwyneth Eunice Widjaja** | Mobile Developer & System Analyst |
-| 32240127 | Corinthia Angie | Database Designer & Backend |
-| 32240144 | Chelsea Arlyn | Frontend Developer & Tester |
+| 32240155 | Febriani Adeline | 
+| 32240119 | **Gwyneth Eunice Widjaja** | 
+| 32240127 | Corinthia Angie | 
+| 32240144 | Chelsea Arlyn |
 
-**Dosen Pengampu**: Jusia Amanda Ginting, S.Kom., M.Kom
-
-**Institusi**: Universitas Bunda Mulia - Fakultas Teknologi dan Desain
 
 ---
-
-## Dokumentasi Lengkap
-
-Untuk dokumentasi lengkap, lihat:
-- **Laporan IMK.md** - Laporan lengkap proyek (96 halaman)
-- **Laporan IMK.pdf** - Versi PDF untuk presentasi
 
 ---
 
