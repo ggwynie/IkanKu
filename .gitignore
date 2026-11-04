@@ -1,0 +1,78 @@
+# Android
+*.iml
+.gradle
+.idea
+*.apk
+*.ap_
+*.dex
+*.class
+bin/
+gen/
+out/
+build/
+local.properties
+proguard/
+*.log
+.DS_Store
+captures/
+.externalNativeBuild
+.cxx
+*.hprof
+
+# Kotlin
+*.kt~
+*.kts~
+
+# Android Studio
+.idea/
+*.iml
+*.iws
+.gradle/
+.kotlin/
+
+# Gradle
+.gradle
+gradle-app.setting
+!gradle-wrapper.jar
+!gradle-wrapper.properties
+
+# Local configuration
+local.properties
+.env
+
+# PHPStorm / IntelliJ
+.idea/
+*.iml
+*.iws
+
+# PHP
+vendor/
+composer.lock
+
+# Database
+*.sql~
+*.db
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+
+# PDF (optional - uncomment if you don't want to track PDF)
+# *.pdf
+
+# Keep empty directories
+!.gitkeep
